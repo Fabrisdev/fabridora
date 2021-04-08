@@ -1,13 +1,14 @@
-<h1 align=center style="color:red">Hi, my name is Fabri</h1>
-<h1 align=center>Im a 15 year old programmer. Currently learning a bit of everything</h1
-<h1 align=center>
-  <a href="https://fabridora.github.io" align=center>ABOUT ME</a> | 
-  <a href="https://github.com/fabridora" align=center>PROJECTS</a> | 
-  <a href="https://fabridora.github.io" align=center>TEST</a></h1>
+<h1 align="center">Hi, my name is Fabri</h1>
+<h1 align="center">Im a 15 year old programmer. Currently learning a bit of everything</h1>
+<h1 align="center">🚀
+  <a href="https://fabridora.github.io">ABOUT ME</a> | 
+  <a href="https://github.com/fabridora">PROJECTS</a> | 
+  <a href="https://fabridora.github.io">TEST</a>
+🚀</h1>
 <h1 align=center>⭐️STATS⭐️</h1>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabriDora&theme=radical&show_icons=true">
+  <img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html"/>
+  <img height=170px src="https://github-readme-stats.vercel.app/api?username=FabriDora&theme=radical&show_icons=true">
 </p>
 
 <p align="center">
