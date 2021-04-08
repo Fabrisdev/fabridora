@@ -1,5 +1,11 @@
 <h1 align="center">Hi, my name is Fabri</h1>
-<h1 align="center">Im a 15 year old programmer. Currently learning a bit of everything</h1>
+<h2 align="center">Im a 15 year old programmer. Currently learning a bit of everything</h2>
+<p align="center">
+  <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628178938069043/python.png"/>
+  <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628193597292565/javascript.png"/>
+  <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628354831187978/html.png"/>
+  <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628229236293652/css.png"/>
+  <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628207958851585/java.png"/>
 <h1 align="center">🚀
   <a href="https://fabridora.github.io">ABOUT ME</a> | 
   <a href="https://github.com/fabridora">PROJECTS</a> | 
