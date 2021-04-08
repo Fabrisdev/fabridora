@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabriDora&repo=ztube&theme=radical"/>
 </p>
 <h1 align="center" name="Contact">⚡Wanna talk with me?⚡</h1>
-<h2 align="center" name="Contact">My discord is: Fabri#0001</h2>
+<h2 align="center">My discord is: Fabri#0001</h2>
 <h1 align="center">
   <img height=150px src="https://img.icons8.com/fluent/240/000000/discord-new-logo.png"/>
 </h1>
