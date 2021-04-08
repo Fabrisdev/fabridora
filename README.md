@@ -32,5 +32,5 @@
 </h2>
 <p align="center"><em>A pic of me programming ¯\_(ツ)_/¯</em></p>
 <p align="center">
-  <img src="https://miro.medium.com/max/1000/1*4WSg9APOcsfPg5d2OY632w.gif"/>
+  <img height=240px src="https://miro.medium.com/max/1000/1*4WSg9APOcsfPg5d2OY632w.gif"/>
 </p>
