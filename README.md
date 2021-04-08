@@ -16,11 +16,11 @@
   <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html"/>
   <img height=160px src="https://github-readme-stats.vercel.app/api?username=FabriDora&theme=radical&show_icons=true">
 </p>
-<h1 align="center">🏆My best project so far🏆</h1>
+<h1 align="center" name="Contact">🏆My best project so far🏆</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabriDora&repo=ztube&theme=radical"/>
 </p>
-<h1 align="center" name="Contact">⚡Wanna talk with me?⚡</h1>
+<h1 align="center">⚡Wanna talk with me?⚡</h1>
 <h1 align="center">
   <img height=50px src="https://img.icons8.com/fluent/240/000000/discord-new-logo.png"/>Fabri#0001
 </h1>
