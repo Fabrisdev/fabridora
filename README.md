@@ -7,8 +7,8 @@
 🚀</h1>
 <h1 align=center>⭐️STATS⭐️</h1>
 <p align=center>
-  <img height=140px src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html"/>
-  <img height=140px src="https://github-readme-stats.vercel.app/api?username=FabriDora&theme=radical&show_icons=true">
+  <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html"/>
+  <img height=150px src="https://github-readme-stats.vercel.app/api?username=FabriDora&theme=radical&show_icons=true">
 </p>
 
 <p align="center">
