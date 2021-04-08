@@ -18,7 +18,7 @@
 </p>
 <h1 align="center" name="Contact">🏆My best project so far🏆</h1>
 <p align="center">
-  <a href="https://github.com/fabridora/ztube" src="https://github-readme-stats.vercel.app/api/pin/?username=FabriDora&repo=ztube&theme=radical"/>
+  <a href="https://github.com/fabridora/ztube"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FabriDora&repo=ztube&theme=radical"/></a>
 </p>
 <h1 align="center">⚡Wanna talk with me?⚡</h1>
 <h1 align="center">
