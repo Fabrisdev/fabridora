@@ -1,5 +1,5 @@
 ### ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html)
-Here are some ideas to get you started:
+<h1 style:"text-align":center">Hi, my name is Fabri</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
