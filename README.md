@@ -1,5 +1,11 @@
 <h1 align="center">🔥Hi, my name is Fabri.🔥</h1>
-<h3 align="center">Im a 15 year old programmer. Currently learning a bit of everything</h3>
+<h4 align="center">Let me introduce myself, im 15 years old, my favorite color is red, and i started learning programming seriously 1 year ago. I'm saying "seriously" because i've been programming since almost 3 years ago but didn't actually learned anything as i was just copying and pasting. But finally im taking this seriously. I'm currently learning a bit of everything as i just wanna see what i like the most.</h4>
+
+<h2 align="center">Hobbies</h2>
+<h4>One of the places where i spend a lot of time is being a discord moderador in a server with almost 8K people called <a href="https://discord.gg/neoarmy"><em>NEO Army</em></a>. I really like the server a lot as it's about programming but you can also have a lot of fun just chilling with everyone in general. I really made good friends there and i'm really happy about that.</h4>
+
+<h3 align="center">These are the languages that i frequently use:</h3>
+<h3 align="center"></h3>
 <p align="center">
   <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628178938069043/python.png"/>
   <img height=150px src="https://cdn.discordapp.com/attachments/802205709709475891/829628193597292565/javascript.png"/>
