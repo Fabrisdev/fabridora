@@ -7,6 +7,7 @@
 <h1 align=center>⭐️STATS⭐️</h1>
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriDora&layout=compact&theme=tokyonight&hide=html"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FabriDora&theme=radical&show_icons=true">
 </p>
 
 <p align="center">
