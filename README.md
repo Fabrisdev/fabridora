@@ -24,6 +24,7 @@
 <h1 align="center">
   <img height=50px src="https://img.icons8.com/fluent/240/000000/discord-new-logo.png"/>Fabri#0001
 </h1>
+<p align="center"><em>A pic of me programming ¯\_(ツ)_/¯</em></p>
 <p align="center">
   <img src="https://miro.medium.com/max/1000/1*4WSg9APOcsfPg5d2OY632w.gif"/>
 </p>
