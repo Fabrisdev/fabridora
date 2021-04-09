@@ -4,7 +4,7 @@
   <a href="https://github.com/fabridora">PROJECTS</a> | 
   <a href="https://github.com/fabridora/#Contact">DISCORD</a>
 🚀</h2>
-<h4 align="center" name="Languages">Let me introduce myself, I'm 15 years old, my favorite color is red, and I started learning programming seriously 1 year ago. I'm saying "seriously" because i've been programming since almost 3 years ago but I didn't actually learn anything as I was just copying and pasting. But finally I'm taking this seriously. I'm currently learning a bit of everything as I just wanna see what I like the most.</h4>
+<h4 align="center" name="Languages">Let me introduce myself, I'm 15 years old, my favorite color is red, and I started learning programming seriously 1 year ago. I'm saying "seriously" because I've been programming since almost 3 years ago but I didn't actually learn anything as I was just copying and pasting. But finally I'm taking this seriously. I'm currently learning a bit of everything as I just wanna see what I like the most.</h4>
 
 <h2 align="center">🌟Hobbies🌟</h2>
 <h4>One of the places where I spend a lot of time is being a discord moderador in a server with almost 8K people called <a href="https://discord.gg/neoarmy"><em>NEO Army</em></a>. I really like the server a lot as it's about programming but you can also have a lot of fun just chilling with everyone in general. I really made good friends there and I'm really happy about that. Another hobbies are obviously programming and I also like playing video games and table games even tho I'm bad at both :P</h4>
