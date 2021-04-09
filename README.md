@@ -1,7 +1,7 @@
 <h1 align="center">🔥Hi, my name is Fabri.🔥</h1>
 <h2 align="center">🚀
   <a href="#Languages">LANGUAGES</a> | 
-  <a href="https://github.com/fabridora">PROJECTS</a> | 
+  <a href="https://github.com/fabridora?tab=repositories">PROJECTS</a> | 
   <a href="https://github.com/fabridora/#Contact">DISCORD</a>
 🚀</h2>
 <h4 align="center" name="Languages">Let me introduce myself, I'm 15 years old, my favorite color is red, and I started learning programming seriously 1 year ago. I'm saying "seriously" because I've been programming since almost 3 years ago but I didn't actually learn anything as I was just copying and pasting. But finally I'm taking this seriously. I'm currently learning a bit of everything as I just wanna see what I like the most.</h4>
